@@ -1,0 +1,11 @@
+.bg-primary{
+    background-color: #6096B4 !important;
+}
+
+header{
+    height: 100px; background-color: #93BFCF;
+}
+
+main{
+    height: 80vh; background-color: #EEE9DA;
+}
